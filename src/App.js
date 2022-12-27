@@ -2,6 +2,7 @@ import logo from './logo.svg';
 //import './App.css';
 import AComponent from './components/AComponent';
 import Clock from './Ejercicios 4,5,6/ClassClock';
+import FunctionalClock from './Ejercicios 4,5,6/FunctionalClock';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
         <AComponent/>
       </header> */}
       <Clock/>
+      <FunctionalClock/>
     </div>
   );
 }
